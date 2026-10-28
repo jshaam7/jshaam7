@@ -27,11 +27,11 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **Result:** PaddleOCR gave the most complete output in this comparison; pre-resizing fixed a documented recognition issue.
 - **Links:** [Repository](https://github.com/jshaam7/ocr-engine-comparison) · [Colab notebook](https://colab.research.google.com/github/jshaam7/ocr-engine-comparison/blob/main/Compare_3_OCR_Engines_on_a_Mortgage_PDF.ipynb)
 
-### 📊 [Consumption, household profiles & well-being](https://github.com/jshaam7/consumption-wellbeing)
-- **Problem:** How is household consumption associated with life satisfaction, and does it differ by household type?
-- **What I did:** Built survey-weighted analysis with household profiles and spline models in R.
-- **Result:** Descriptively, life satisfaction rose across consumption tiers in all three profiles (65,544 filtered households). Observational and not causal; development uses one of 20 data implicates.
-- **Link:** [Repository](https://github.com/jshaam7/consumption-wellbeing)
+### 🧪 [Synthetic data generator · BC Government AI repository](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
+- **Problem:** How can teams test analysis and models without relying on original records, and how do you judge whether synthetic data is trustworthy?
+- **What I did:** Contributed a synthetic text-data generator example (merged PR #376) with plain-language documentation of its method, validation checks, and limitations.
+- **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced and 11% of 8-word phrases came from real text, so results are indicative only.
+- **Links:** [Example and documentation](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator) · [Pull request](https://github.com/bcgov/citz-imb-ai/pull/376)
 
 ### 🚲 [Cyclistic bike-share analysis](https://github.com/jshaam7/cyclistic-bike-share-analysis)
 - **Problem:** How can a bike-share company convert casual riders into annual members?
@@ -73,7 +73,8 @@ I’m building toward roles at the intersection of consulting, data science, app
 **Shown in my public projects**
 - **Deep learning & vision:** TensorFlow/Keras · OpenCV
 - **Document processing & OCR:** PyMuPDF · Tesseract · PaddleOCR · EasyOCR
-- **Analytics & visualization:** Tableau · R/tidyverse · survey-weighted analysis
+- **Analytics & visualization:** Tableau · R/tidyverse
+- **Synthetic data & validation:** Markov-chain text generation · rule and distribution checks · OpenShift notebooks
 
 **Also used in work, research, or experimentation**
 - **AI & NLP:** LLM workflows · sentence embeddings · entity resolution · synthetic data · RAG · LlamaIndex · Unsloth · LLM fine-tuning · PyTorch · LightGBM
