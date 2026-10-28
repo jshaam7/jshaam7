@@ -13,11 +13,11 @@
 
 > **At a glance** · 🎓 UBC BSc Statistics (May 2028) + Master of Management (Dec 2028) · 🤖 AI Analyst Co-op, Connected Services BC · 🌍 Data Science for Social Good Fellow, UBC DSI (Summer 2026)
 
-I’m Shaam, an emerging data and AI professional who connects statistical rigor, practical machine learning and software work, and business communication. I like turning messy data into tools, clear narratives, and evidence people can act on.
+I’m Shaam, a data and AI professional who connects statistics, practical machine learning and software work, and business communication. I like turning messy data into tools, clear narratives, and evidence people can act on.
 
 ## 🧭 Where I’m headed
 
-I’m building toward roles at the intersection of consulting, data science, applied AI, and technology, with a longer-term interest in product and strategy leadership. I’m especially drawn to responsible AI, public-sector innovation, and socially meaningful applications.
+I’m building toward roles at the intersection of consulting, data science, applied AI, and technology, with a longer-term interest in product and strategy leadership. I’m especially drawn to responsible AI, innovation, and socially meaningful applications.
 
 ## 🚀 Selected work
 
@@ -30,7 +30,7 @@ I’m building toward roles at the intersection of consulting, data science, app
 ### 🧪 [Synthetic data generator · BC Government AI repository](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 - **Problem:** How can teams test analysis and models without relying on original records, and how do you judge whether synthetic data is trustworthy?
 - **What I did:** Contributed a synthetic text-data generator example (merged PR #376) with plain-language documentation of its method, validation checks, and limitations.
-- **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced and 11% of 8-word phrases came from real text, so results are indicative only.
+- **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced, and 11% of 8-word phrases came from real text, so results are indicative only.
 - **Link:** [Example and documentation](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 
 ### 🚲 [Cyclistic bike-share analysis](https://github.com/jshaam7/cyclistic-bike-share-analysis)
@@ -41,7 +41,7 @@ I’m building toward roles at the intersection of consulting, data science, app
 
 ### 🧠 [Deepfake detection CNN](https://github.com/jshaam7/deepfake-detection-cnn-model)
 - **Problem:** Can a simple model tell real images from altered ones?
-- **What I did:** Co-built a TensorFlow/Keras CNN baseline with OpenCV preprocessing (equal collaboration with Dishika).
+- **What I did:** Built a TensorFlow/Keras CNN baseline with OpenCV preprocessing.
 - **Result:** About 82% test accuracy in the repository’s provided run, as a project evaluation result and not a production claim.
 - **Link:** [Repository](https://github.com/jshaam7/deepfake-detection-cnn-model)
 
