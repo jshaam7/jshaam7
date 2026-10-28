@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Data to decisions</title>
+  <desc id="desc">Teal and indigo data paths converge into a bright signal against a deep blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10253f"/>
+      <stop offset="1" stop-color="#172b46"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-linecap="round" stroke-width="2" opacity=".8">
+    <path d="M0 42h260l74 42h220l92 24h240l54-26h260"/>
+    <path d="M0 94h205l56-31h196l83 21h191l88 42h381" opacity=".65"/>
+    <path d="M0 151h327l64-32h165l75 19h258l76-39h235" opacity=".48"/>
+  </g>
+  <g fill="#dbeafe" opacity=".9">
+    <circle cx="260" cy="42" r="4"/><circle cx="554" cy="84" r="4"/>
+    <circle cx="646" cy="108" r="4"/><circle cx="899" cy="82" r="4"/>
+    <circle cx="391" cy="119" r="4"/><circle cx="889" cy="138" r="4"/>
+  </g>
+  <circle cx="1016" cy="82" r="25" fill="#5eead4" opacity=".12"/>
+  <circle cx="1016" cy="82" r="10" fill="#5eead4"/>
+  <circle cx="1016" cy="82" r="4" fill="#10253f"/>
+</svg>
