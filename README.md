@@ -31,12 +31,13 @@ I’m interested in responsible, applied data and AI—especially public-sector 
 - **Data Science for Social Good Fellow · UBC Data Science Institute · Summer 2026** — Supported survey harmonization and well-being research using NLP-assisted variable matching, sentence-transformer embeddings, reranking, human review, and R-based analysis.
 - **Residence Advisor · UBC** — Build community, support residents, and communicate with people from diverse backgrounds.
 
-## Toolkit
+## 💻 Tech Stack
 
-- **Languages:** Python · R · SQL · Java
-- **Data & ML:** pandas · NumPy · scikit-learn · TensorFlow/Keras · statistical modelling · model evaluation
-- **Applied AI:** NLP · embeddings · LLM workflows · document processing
-- **Analytics & communication:** Tableau · Power BI · Excel · Shiny · data visualization · stakeholder communication
-- **Development:** Git · GitHub
+- **Languages:** Python · R · SQL · Java · Bash
+- **Data Science & Machine Learning:** pandas · NumPy · scikit-learn · TensorFlow · Keras · PyTorch · LightGBM
+- **AI & NLP:** Unsloth · LlamaIndex · LLM fine-tuning · RAG · sentence embeddings · entity resolution · synthetic data generation · model evaluation
+- **Computer Vision & Document Processing:** OpenCV · PyMuPDF · Tesseract
+- **Infrastructure & Development:** Red Hat OpenShift · containerized experimentation · Tailscale · Git · GitHub · VS Code
+- **Analytics & Visualization:** Tableau · Power BI · Excel · Shiny · Seaborn
 
 I’m especially interested in collaborative work where careful analysis and practical implementation help people make better decisions. Connect with me on [LinkedIn](https://www.linkedin.com/in/shaam-purushothaman-jayakumaran/).
