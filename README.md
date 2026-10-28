@@ -45,6 +45,12 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **Result:** About 82% test accuracy in the repository’s provided run, as a project evaluation result and not a production claim.
 - **Link:** [Repository](https://github.com/jshaam7/deepfake-detection-cnn-model)
 
+### 🔬 [Currently exploring: System One decision models](https://github.com/jshaam7/system-one-models-research)
+- **Problem:** When does a typed decision model such as Jev or Laya beat simple baselines for classification and entity matching, and is the added complexity worth it?
+- **What I'm doing:** Writing a public research guide and evaluation design covering baselines, calibration, failure modes, and reviewer-in-the-loop routing.
+- **Status:** Literature synthesis and experiment design, with fabricated or public data only. No benchmark results are reported yet.
+- **Link:** [Research guide](https://github.com/jshaam7/system-one-models-research)
+
 ### More work
 
 - [Mortgage PDF field extraction](https://github.com/jshaam7/mortgage-pdf-field-extraction): layout-aware extraction of borrower and fee fields with bounding boxes and visual validation. This is rule-based document processing, not RAG.
