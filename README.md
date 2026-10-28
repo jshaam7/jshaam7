@@ -31,7 +31,7 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **Problem:** How can teams test analysis and models without relying on original records, and how do you judge whether synthetic data is trustworthy?
 - **What I did:** Contributed a synthetic text-data generator example (merged PR #376) with plain-language documentation of its method, validation checks, and limitations.
 - **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced and 11% of 8-word phrases came from real text, so results are indicative only.
-- **Links:** [Example and documentation](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator) · [Pull request](https://github.com/bcgov/citz-imb-ai/pull/376)
+- **Link:** [Example and documentation](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 
 ### 🚲 [Cyclistic bike-share analysis](https://github.com/jshaam7/cyclistic-bike-share-analysis)
 - **Problem:** How can a bike-share company convert casual riders into annual members?
