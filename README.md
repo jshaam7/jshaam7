@@ -17,7 +17,7 @@ I’m Shaam, an emerging data and AI professional who connects statistical rigor
 
 ## 🧭 Where I’m headed
 
-I’m building toward applied data science, AI, analytics, and technology strategy roles, with a longer-term interest in product strategy and data leadership. I’m especially drawn to responsible AI, public-sector innovation, socially meaningful applications, and healthcare data science.
+I’m building toward roles at the intersection of consulting, data science, applied AI, and technology, with a longer-term interest in product and strategy leadership. I’m especially drawn to responsible AI, public-sector innovation, and socially meaningful applications.
 
 ## 🚀 Selected work
 
