@@ -57,29 +57,105 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **Data Science for Social Good Fellow · UBC Data Science Institute · Summer 2026:** Survey harmonization and well-being research using NLP-assisted variable matching, sentence-transformer embeddings, reranking, human review, and R-based analysis.
 - **Residence Advisor · UBC:** Community building, leadership, and communicating with diverse audiences.
 
-## 🛠️ Tech stack
+## 🛠️ Technical Toolkit & Applied Capabilities
+
+I combine statistics, applied AI, and business communication to turn complex
+data into actionable insights and practical tools.
+
+*Used across professional work, research, public projects, and experimentation;
+experience varies by tool.*
+
+### 📊 Business Analytics & Decision Support
+**Translate data into clear recommendations, dashboards, and stakeholder-facing tools.**
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-0f766e?style=flat-square&logo=r&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-0f766e?style=flat-square" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-0f766e?style=flat-square" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-A16207?style=flat-square" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-A16207?style=flat-square" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-A16207?style=flat-square" />
+  <img alt="Shiny" src="https://img.shields.io/badge/Shiny-A16207?style=flat-square" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-A16207?style=flat-square" />
 </p>
 
-**Core**
-- **Languages:** Python · R · SQL · Java
-- **Data & ML:** pandas · NumPy · scikit-learn · statistical modelling · model evaluation
+### 🧠 Applied AI & Model Evaluation
+**Build and test models, assessing predictive performance and practical trade-offs.**
 
-**Shown in my public projects**
-- **Deep learning & vision:** TensorFlow/Keras · OpenCV
-- **Document processing & OCR:** PyMuPDF · Tesseract · PaddleOCR · EasyOCR
-- **Analytics & visualization:** Tableau · R/tidyverse
-- **Synthetic data & validation:** Markov-chain text generation · rule and distribution checks · OpenShift notebooks
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-7C3AED?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square" />
+  <img alt="LLM Fine-Tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-7C3AED?style=flat-square" />
+  <img alt="LLM Benchmarking" src="https://img.shields.io/badge/LLM_Benchmarking-7C3AED?style=flat-square" />
+  <img alt="Model Evaluation" src="https://img.shields.io/badge/Model_Evaluation-7C3AED?style=flat-square" />
+</p>
 
-**Also used in work, research, or experimentation**
-- **AI & NLP:** LLM workflows · sentence embeddings · entity resolution · synthetic data · RAG · LlamaIndex · Unsloth · LLM fine-tuning · PyTorch · LightGBM
-- **Analytics & communication:** Power BI · Excel · Shiny · Seaborn
-- **Infrastructure & dev tools:** Git · GitHub · Bash · Red Hat OpenShift · Tailscale · VS Code
+### 🔎 NLP, Search & Entity Resolution
+**Match information across datasets and retrieve relevant knowledge from documents.**
+
+<p>
+  <img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence_Transformers-BE185D?style=flat-square" />
+  <img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-BE185D?style=flat-square" />
+  <img alt="Reranking" src="https://img.shields.io/badge/Reranking-BE185D?style=flat-square" />
+  <img alt="Entity Resolution" src="https://img.shields.io/badge/Entity_Resolution-BE185D?style=flat-square" />
+  <img alt="Retrieval-Augmented Generation (RAG)" src="https://img.shields.io/badge/RAG-BE185D?style=flat-square" />
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-BE185D?style=flat-square" />
+</p>
+
+### 📈 Statistical Analysis & Data Science
+**Prepare complex datasets, investigate patterns, and evaluate analytical findings.**
+
+<p>
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-0F766E?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0F766E?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="tidyverse" src="https://img.shields.io/badge/tidyverse-0F766E?style=flat-square&logo=tidyverse&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0F766E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-0F766E?style=flat-square" />
+  <img alt="Statistical Modelling" src="https://img.shields.io/badge/Statistical_Modelling-0F766E?style=flat-square" />
+</p>
+
+### 📄 Document Intelligence & Computer Vision
+**Extract structured information from documents and develop image-analysis workflows.**
+
+<p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-C2410C?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="PyMuPDF" src="https://img.shields.io/badge/PyMuPDF-C2410C?style=flat-square" />
+  <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract_OCR-C2410C?style=flat-square" />
+  <img alt="PaddleOCR" src="https://img.shields.io/badge/PaddleOCR-C2410C?style=flat-square" />
+  <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-C2410C?style=flat-square" />
+</p>
+
+### 🧪 Synthetic Data & Validation
+**Generate test and training data, then assess its consistency and usefulness.**
+
+<p>
+  <img alt="Synthetic Training Data" src="https://img.shields.io/badge/Synthetic_Training_Data-15803D?style=flat-square" />
+  <img alt="Markov Chains" src="https://img.shields.io/badge/Markov_Chains-15803D?style=flat-square" />
+  <img alt="Rule-Based Validation" src="https://img.shields.io/badge/Rule--Based_Validation-15803D?style=flat-square" />
+  <img alt="Distribution Checks" src="https://img.shields.io/badge/Distribution_Checks-15803D?style=flat-square" />
+</p>
+
+### 💻 Programming & Development
+**Implement analytical workflows, automate tasks, and build applications.**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/R-2563EB?style=flat-square&logo=r&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-2563EB?style=flat-square" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-2563EB?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+### ⚙️ Infrastructure & Reproducible Experimentation
+**Run containerized experiments and manage code across connected development environments.**
+
+<p>
+  <img alt="Red Hat OpenShift" src="https://img.shields.io/badge/Red_Hat_OpenShift-475569?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img alt="OpenShift Notebooks" src="https://img.shields.io/badge/OpenShift_Notebooks-475569?style=flat-square" />
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-475569?style=flat-square&logo=tailscale&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-475569?style=flat-square" />
+</p>
 
 ## 🤝 Let’s connect
 
