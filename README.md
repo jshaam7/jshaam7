@@ -21,11 +21,11 @@ I’m building toward roles at the intersection of consulting, data science, app
 
 ## 🚀 Selected work
 
-### 🔎 [OCR engine comparison](https://github.com/jshaam7/ocr-engine-comparison)
-- **Problem:** Which OCR engine best preserves the structure of a scanned mortgage form?
-- **What I did:** Compared Tesseract, EasyOCR, and PaddleOCR on text quality, layout, and downstream readiness.
-- **Result:** PaddleOCR gave the most complete output in this comparison; pre-resizing fixed a documented recognition issue.
-- **Links:** [Repository](https://github.com/jshaam7/ocr-engine-comparison) · [Colab notebook](https://colab.research.google.com/github/jshaam7/ocr-engine-comparison/blob/main/Compare_3_OCR_Engines_on_a_Mortgage_PDF.ipynb)
+### 🔬 [Currently exploring: System One decision models](https://github.com/jshaam7/system-one-models-research)
+- **Problem:** When does a typed decision model such as Jev or Laya beat simple baselines for classification and entity matching, and is the added complexity worth it?
+- **What I'm doing:** Writing a public research guide and evaluation design covering baselines, calibration, failure modes, and reviewer-in-the-loop routing.
+- **Status:** Literature synthesis and experiment design, with fabricated or public data only. No benchmark results are reported yet.
+- **Link:** [Research guide](https://github.com/jshaam7/system-one-models-research)
 
 ### 🧪 [Synthetic data generator · BC Government AI repository](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 - **Problem:** How can teams test analysis and models without relying on original records, and how do you judge whether synthetic data is trustworthy?
@@ -45,11 +45,11 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **Result:** About 82% test accuracy in the repository’s provided run, as a project evaluation result and not a production claim.
 - **Link:** [Repository](https://github.com/jshaam7/deepfake-detection-cnn-model)
 
-### 🔬 [Currently exploring: System One decision models](https://github.com/jshaam7/system-one-models-research)
-- **Problem:** When does a typed decision model such as Jev or Laya beat simple baselines for classification and entity matching, and is the added complexity worth it?
-- **What I'm doing:** Writing a public research guide and evaluation design covering baselines, calibration, failure modes, and reviewer-in-the-loop routing.
-- **Status:** Literature synthesis and experiment design, with fabricated or public data only. No benchmark results are reported yet.
-- **Link:** [Research guide](https://github.com/jshaam7/system-one-models-research)
+### 🔎 [OCR engine comparison](https://github.com/jshaam7/ocr-engine-comparison)
+- **Problem:** Which OCR engine best preserves the structure of a scanned mortgage form?
+- **What I did:** Compared Tesseract, EasyOCR, and PaddleOCR on text quality, layout, and downstream readiness.
+- **Result:** PaddleOCR gave the most complete output in this comparison; pre-resizing fixed a documented recognition issue.
+- **Links:** [Repository](https://github.com/jshaam7/ocr-engine-comparison) · [Colab notebook](https://colab.research.google.com/github/jshaam7/ocr-engine-comparison/blob/main/Compare_3_OCR_Engines_on_a_Mortgage_PDF.ipynb)
 
 ### More work
 
@@ -105,7 +105,7 @@ Training, adapting, and evaluating models for practical use cases.
   <img alt="Keras" src="https://img.shields.io/badge/Keras-7C3AED?style=flat-square&logo=keras&logoColor=white" />
   <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square" />
   <img alt="LLM workflows" src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=flat-square" />
-  <img alt="LLM fine-tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-7C3AED?style=flat-square" />
+  <img alt="Fine-tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-7C3AED?style=flat-square" />
   <img alt="Model evaluation" src="https://img.shields.io/badge/Model_Evaluation-7C3AED?style=flat-square" />
 </p>
 
@@ -131,16 +131,6 @@ Extracting text and structured fields, and comparing recognition quality.
   <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-C2410C?style=flat-square" />
 </p>
 
-### 🧪 Synthetic data & validation
-Generating data for experimentation and checking its utility and limitations.
-
-<p>
-  <img alt="Synthetic data generation" src="https://img.shields.io/badge/Synthetic_Data_Generation-15803D?style=flat-square" />
-  <img alt="Markov-chain text generation" src="https://img.shields.io/badge/Markov--Chain_Text_Generation-15803D?style=flat-square" />
-  <img alt="Rule-based validation" src="https://img.shields.io/badge/Rule--Based_Validation-15803D?style=flat-square" />
-  <img alt="Distribution checks" src="https://img.shields.io/badge/Distribution_Checks-15803D?style=flat-square" />
-</p>
-
 ### ⚙️ Infrastructure & development
 Working with version-controlled code and containerized testing environments.
 
@@ -151,17 +141,6 @@ Working with version-controlled code and containerized testing environments.
   <img alt="Git" src="https://img.shields.io/badge/Git-475569?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-475569?style=flat-square&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-475569?style=flat-square" />
-</p>
-
-### 🔬 Decision-model research · design stage
-Literature synthesis and evaluation planning. No benchmark results reported yet.
-
-<p>
-  <img alt="Jev research" src="https://img.shields.io/badge/Jev_Research-92400E?style=flat-square" />
-  <img alt="Laya exploration" src="https://img.shields.io/badge/Laya_Exploration-92400E?style=flat-square" />
-  <img alt="Calibration evaluation design" src="https://img.shields.io/badge/Calibration-92400E?style=flat-square" />
-  <img alt="Baseline comparison design" src="https://img.shields.io/badge/Baseline_Comparison-92400E?style=flat-square" />
-  <img alt="Confidence-gated human review design" src="https://img.shields.io/badge/Confidence--Gated_Human_Review-92400E?style=flat-square" />
 </p>
 
 ## 🤝 Let’s connect
