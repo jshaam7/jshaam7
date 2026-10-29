@@ -2,10 +2,6 @@
   <img src="assets/profile-banner.png" alt="Shaam Purushothaman Jayakumaran — Statistics, AI, and Business Analytics" width="100%" />
 </p>
 
-# Shaam Purushothaman Jayakumaran
-
-**Statistics, applied AI, and business insights — turning complex data into practical decisions.**
-
 <p>
   <a href="https://www.linkedin.com/in/shaam-purushothaman-jayakumaran/"><img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jshaam7?tab=repositories"><img alt="Browse my GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-0f766e?style=flat-square&logo=github&logoColor=white" /></a>
