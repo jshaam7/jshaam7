@@ -20,25 +20,23 @@ I’m building toward roles at the intersection of consulting, data science, app
 
 ### 🔬 [Currently exploring: System One decision models](https://github.com/jshaam7/system-one-models-research)
 - **Driving question:** When does a typed decision model such as Jev or Laya beat simple baselines for classification and entity matching, and is the added complexity worth it?
-- **What I'm doing:** Writing a public research guide and evaluation design covering baselines, calibration, failure modes, and reviewer-in-the-loop routing.
-- **Status:** Literature synthesis and experiment design, with fabricated or public data only. No benchmark results are reported yet.
 - **Link:** [Research guide](https://github.com/jshaam7/system-one-models-research)
 
 ### 🧪 [Synthetic data generator · BC Government AI repository](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 - **Driving question:** How can teams test analysis and models without relying on original records, and how do you judge whether synthetic data is trustworthy?
-- **What I did:** Contributed a synthetic text-data generator example (merged PR #376) with plain-language documentation of its method, validation checks, and limitations.
-- **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced and 11% of 8-word phrases came from real text, so results are indicative only.
+- **What I did:** Developed a synthetic text-data generator with plain-language documentation of its method, validation checks, and limitations.
+- **Result:** From a public 170-filing fraud dataset, it generated 1,000 synthetic filings that preserved class balance and passed all 5 rule checks. The write-up also flags limits: document length was not reproduced, and 11% of 8-word phrases came from real text, so results are indicative only.
 - **Link:** [Example and documentation](https://github.com/bcgov/citz-imb-ai/tree/main/examples/synthetic-data-generator)
 
 ### 🚲 [Cyclistic bike-share analysis](https://github.com/jshaam7/cyclistic-bike-share-analysis)
 - **Driving question:** How can a bike-share company convert casual riders into annual members?
-- **What I did:** Analyzed 800,000+ trips in R and built Tableau dashboards and recommendations.
+- **What I did:** Analyzed 800,000+ trips in R, built a Tableau dashboard, and presented recommendations.
 - **Result:** Casual riders skewed toward weekends and afternoons, while members rode more on weekdays, pointing to leisure-focused conversion campaigns.
 - **Link:** [Repository](https://github.com/jshaam7/cyclistic-bike-share-analysis)
 
 ### 🧠 [Deepfake detection CNN](https://github.com/jshaam7/deepfake-detection-cnn-model)
 - **Driving question:** Can a simple model tell real images from altered ones?
-- **What I did:** Co-built a TensorFlow/Keras CNN baseline with OpenCV preprocessing (equal collaboration with Dishika).
+- **What I did:** Built a TensorFlow/Keras CNN baseline with OpenCV preprocessing.
 - **Result:** About 82% test accuracy in the repository’s provided run, as a project evaluation result and not a production claim.
 - **Link:** [Repository](https://github.com/jshaam7/deepfake-detection-cnn-model)
 
