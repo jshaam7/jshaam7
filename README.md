@@ -13,11 +13,11 @@
 
 > **At a glance** · 🎓 UBC BSc Statistics (May 2028) + Master of Management (Dec 2028) · 🤖 AI Analyst Co-op, Connected Services BC · 🌍 Data Science for Social Good Fellow, UBC DSI (Summer 2026)
 
-I’m Shaam, an emerging data and AI professional who connects statistical rigor, practical machine learning and software work, and business communication. I like turning messy data into tools, clear narratives, and evidence people can act on.
+I’m Shaam, an AI and Data professional who connects statistical analysis, practical machine learning, and business communication. I like turning messy data into tools, clear narratives, and evidence people can act on.
 
 ## 🧭 Where I’m headed
 
-I’m building toward roles at the intersection of consulting, data science, applied AI, and technology, with a longer-term interest in product and strategy leadership. I’m especially drawn to responsible AI, public-sector innovation, and socially meaningful applications.
+I’m building toward roles at the intersection of consulting, data science, applied AI, and technology, with a longer-term interest in product and strategy leadership.
 
 ## 🚀 Selected work
 
@@ -44,18 +44,6 @@ I’m building toward roles at the intersection of consulting, data science, app
 - **What I did:** Co-built a TensorFlow/Keras CNN baseline with OpenCV preprocessing (equal collaboration with Dishika).
 - **Result:** About 82% test accuracy in the repository’s provided run, as a project evaluation result and not a production claim.
 - **Link:** [Repository](https://github.com/jshaam7/deepfake-detection-cnn-model)
-
-### 🔎 [OCR engine comparison](https://github.com/jshaam7/ocr-engine-comparison)
-- **Problem:** Which OCR engine best preserves the structure of a scanned mortgage form?
-- **What I did:** Compared Tesseract, EasyOCR, and PaddleOCR on text quality, layout, and downstream readiness.
-- **Result:** PaddleOCR gave the most complete output in this comparison; pre-resizing fixed a documented recognition issue.
-- **Links:** [Repository](https://github.com/jshaam7/ocr-engine-comparison) · [Colab notebook](https://colab.research.google.com/github/jshaam7/ocr-engine-comparison/blob/main/Compare_3_OCR_Engines_on_a_Mortgage_PDF.ipynb)
-
-### More work
-
-- [Mortgage PDF field extraction](https://github.com/jshaam7/mortgage-pdf-field-extraction): layout-aware extraction of borrower and fee fields with bounding boxes and visual validation. This is rule-based document processing, not RAG.
-- [BoltByte datathon analytics](https://github.com/jshaam7/boltbyte): R-based retail analysis of sales, costs, profits, and customer age groups, presented to stakeholders in a slide deck.
-- [Hotel guest management system](https://github.com/jshaam7/hotel-guest-management-system): Java application for guest records, room availability, billing, and saving/loading state.
 
 ## 💼 Experience
 
@@ -105,30 +93,9 @@ Training, adapting, and evaluating models for practical use cases.
   <img alt="Keras" src="https://img.shields.io/badge/Keras-7C3AED?style=flat-square&logo=keras&logoColor=white" />
   <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square" />
   <img alt="LLM workflows" src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=flat-square" />
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-BE185D?style=flat-square" />
   <img alt="Fine-tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-7C3AED?style=flat-square" />
   <img alt="Model evaluation" src="https://img.shields.io/badge/Model_Evaluation-7C3AED?style=flat-square" />
-</p>
-
-### 🔎 NLP & information retrieval
-Matching variables and entities, exploring document-based retrieval.
-
-<p>
-  <img alt="Sentence embeddings" src="https://img.shields.io/badge/Sentence_Embeddings-BE185D?style=flat-square" />
-  <img alt="Reranking" src="https://img.shields.io/badge/Reranking-BE185D?style=flat-square" />
-  <img alt="Entity resolution" src="https://img.shields.io/badge/Entity_Resolution-BE185D?style=flat-square" />
-  <img alt="Retrieval-augmented generation" src="https://img.shields.io/badge/RAG-BE185D?style=flat-square" />
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-BE185D?style=flat-square" />
-</p>
-
-### 📄 Computer vision & document processing
-Extracting text and structured fields, and comparing recognition quality.
-
-<p>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-C2410C?style=flat-square&logo=opencv&logoColor=white" />
-  <img alt="PyMuPDF" src="https://img.shields.io/badge/PyMuPDF-C2410C?style=flat-square" />
-  <img alt="Tesseract OCR" src="https://img.shields.io/badge/Tesseract_OCR-C2410C?style=flat-square" />
-  <img alt="PaddleOCR" src="https://img.shields.io/badge/PaddleOCR-C2410C?style=flat-square" />
-  <img alt="EasyOCR" src="https://img.shields.io/badge/EasyOCR-C2410C?style=flat-square" />
 </p>
 
 ### ⚙️ Infrastructure & development
