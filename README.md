@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Teal and indigo data paths converging into a clear signal" width="100%" />
+  <img src="assets/profile-banner.png" alt="Shaam Purushothaman Jayakumaran — Statistics, AI, and Business Analytics" width="100%" />
 </p>
 
 # Shaam Purushothaman Jayakumaran
