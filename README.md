@@ -86,16 +86,16 @@ Building analytical workflows and investigating patterns in complex data.
 Training, adapting, and evaluating models for practical use cases.
 
 <p>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-7C3AED?style=flat-square" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-7C3AED?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square" />
-  <img alt="LLM workflows" src="https://img.shields.io/badge/LLM_Workflows-7C3AED?style=flat-square" />
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-BE185D?style=flat-square" />
-  <img alt="Fine-tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-7C3AED?style=flat-square" />
-  <img alt="Model evaluation" src="https://img.shields.io/badge/Model_Evaluation-7C3AED?style=flat-square" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F97316?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-F97316?style=flat-square" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F97316?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-F97316?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-F97316?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-F97316?style=flat-square" />
+  <img alt="LLM workflows" src="https://img.shields.io/badge/LLM_Workflows-F97316?style=flat-square" />
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-F97316?style=flat-square" />
+  <img alt="Fine-tuning" src="https://img.shields.io/badge/LLM_Fine--Tuning-F97316?style=flat-square" />
+  <img alt="Model evaluation" src="https://img.shields.io/badge/Model_Evaluation-F97316?style=flat-square" />
 </p>
 
 ### ⚙️ Infrastructure & development
