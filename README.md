@@ -5,6 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/shaam-purushothaman-jayakumaran/"><img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jshaam7?tab=repositories"><img alt="Browse my GitHub repositories" src="https://img.shields.io/badge/GitHub-Repositories-0f766e?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="resume.pdf"><img alt="View my resume" src="https://img.shields.io/badge/Resume-View-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 > **At a glance** \
